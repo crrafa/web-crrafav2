@@ -1,2 +1,3 @@
-# web-crrafa
-Proyecto de pagina web - crrafa
+# Proyecto basico web
+Proyecto de pagina web - crrafa 
+## Practica de desarrollo con colaborativo
